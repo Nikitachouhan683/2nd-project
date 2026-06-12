@@ -5,3 +5,5 @@ urlpatterns = [
     path("",views.index),
     path("Booknow",views.booknow)
 ]
+
+
